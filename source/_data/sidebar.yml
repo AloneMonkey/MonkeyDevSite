@@ -1,0 +1,14 @@
+docs:
+  getting_started:
+    overview: index.html
+    logos: logos.html
+    captainhook: captainhook.html
+    commandline: commandline.html
+    monkeyappmac: monkeyappmac.html
+  nojailbreak:
+    devnojailbreak: devnojailbreak.html
+    cocoapods: cocoapods.html
+    makepod: makepod.html
+  miscellaneous:
+    troubleshooting: troubleshooting.html
+    thanks: thanks.html

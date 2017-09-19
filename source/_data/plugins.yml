@@ -1,0 +1,104 @@
+- name: WechatPod
+  description: 修改步数、修改定位、防撤回、游戏作弊.
+  link: https://github.com/AloneMonkey/WeChatPod
+  tags:
+    - 微信
+    - 步数
+    - 防撤回
+    - 定位
+    - 游戏
+- name: MakeRedEnvelopEasy
+  description: 抢红包, 可设置延时, 黑名单等, 详情移驾WeChatRedEnvelop.
+  link: https://github.com/iOSleep/MakeRedEnvelopEasy
+  tags:
+    - 微信
+    - 红包
+- name: CaptainHook
+  description: CaptainHook，其它插件开发依赖库.
+  link: https://github.com/AloneMonkey/CaptainHook
+  tags:
+    - CaptainHook
+    - Hook
+- name: CydiaSubstrate
+  description: 越狱设备CydiaSubstrate的迁移，在非越狱机器只能使用MSHookMessageEx，不能使用MSHookFunction.
+  link: http://
+  tags:
+    - CydiaSubstrate
+    - Hook
+- name: DeathlessLocation
+  description: 利用定位来达到后台时进程不被杀死，同时又很省电.
+  link: https://github.com/dalianmengwei/DeathlessLocation
+  tags:
+    - 定位
+    - 后台
+- name: DingtalkPod
+  description: 修改钉钉位置打卡，调用 DingtalkPod 中 -(void)setLocation:(CLLocationCoordinate2D)location即可.
+  link: https://github.com/deskOfDafa/DingtalkPod
+  tags:
+    - 钉钉
+    - 打卡
+    - 定位
+- name: IQIYIVideoPod
+  description: 去除爱奇艺视频广告.
+  link: https://github.com/xispower/IQIYIVideoPod
+  tags:
+    - 爱奇艺
+    - 广告
+- name: SwizzlePod
+  description: ZKSwizzle 和 jrswizzle 的组合.
+  link: https://github.com/AloneMonkey/SwizzlePod
+  tags:
+    - ZKSwizzle
+    - jrswizzle
+    - Hook
+- name: TXVideoPod
+  description: 去除腾讯视频广告.
+  link: https://github.com/xispower/TXVideo
+  tags:
+    - 腾讯视频
+    - 广告
+- name: WeChatPriPod
+  description: 屏蔽群或好友消息，关闭发现页面功能入口，修改微信步数，去除小红点，设置夜间模式等，详情移驾yulingtianxia； 抢红包, 可设置延时, 黑名单，阻止撤回消息等等, 详情移驾WeChatRedEnvelop，非群主At所有人.
+  link: https://github.com/Lorwy/WeChatPriPod
+  tags:
+    - 微信
+    - 步数
+    - 红包
+    - 撤回
+    - 艾特所有人
+- name: WeChatMsgInterval
+  description: 显示对方回复你消息的时间间隔.
+  link: https://github.com/Mainstayz/WeChatMsgInterval
+  tags:
+    - 微信
+    - 消息
+- name: WeChatRevokeMsgPod
+  description: 安装后，别人给你发的消息无法撤回.
+  link: https://github.com/ZWXAllen/WeChatRevokeMsgPod
+  tags:
+    - 微信
+    - 撤回
+- name: WeChatSelectAll
+  description: 非群主可以@所有人.
+  link: https://github.com/ZWXAllen/WeChatSelectAll
+  tags:
+    - 微信
+    - 艾特所有人
+- name: WeChatWebEmoticon
+  description: 在微信WebView上，对Gif，静态图一键保存生成表情，突破微信Gif表情保存大小的限制.
+  link: https://github.com/Mainstayz/WeChatWebEmoticon
+  tags:
+    - 微信
+    - 表情
+- name: WechatFunnyAt
+  description: 微信消息输入框中，如果消息文本内容有@，则自动把第一个>之前（包含>）的内容删除掉。.
+  link: https://github.com/everettjf/Yolo/tree/master/WechatFunnyAt
+  tags:
+    - 微信
+    - 艾特
+- name: ZhuiShuShenQiFreeSource
+  description: 让追书神器所有的小说都可以查看免费源，移除一些广告，防止误触！
+  link: https://github.com/iOSleep/ZhuiShuShenQiFreeSource
+  tags:
+    - 追书神器
+    - 广告

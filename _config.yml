@@ -1,0 +1,29 @@
+title: MonkeyDev
+subtitle: "CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak."
+description: "CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak."
+author: AloneMonkey
+language: zh-cn
+timezone: UTC
+
+url: https://monkeydev.org
+root: /
+permalink: news/:year/:month/:day/:title/
+archive_dir: news
+code_dir: downloads/code
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+per_page: 0
+
+theme: navy
+deploy:
+  type: git
+  repo: https://github.com/AloneMonkey/monkeydev.github.io.git
+
+highlight:
+  enable: true
+  line_number: false
+
+#disqus_shortname: monkeydev
+baidu_analytics: 9ea5f278b554a720871d1d8d71ef1518
+weibo: xiaoqing28
+github: AloneMonkey/MonkeyDev
