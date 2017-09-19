@@ -15,7 +15,7 @@ MonkeyDev主要包括如下几个模块:
 
 * CaptainHook Tweak
 
-使用[CaptainHook](https://github.com/rpetrich/CaptainHook/)提供的头文件进行OC函数的Hook，以及属性的获取。
+使用[CaptainHook](https://github.com/rpetrich/CaptainHook/)提供的头文件进行OC函数的Hook，增加方法属性以及获取私有属性。
 
 * Command-line Tool
 
@@ -27,7 +27,7 @@ MonkeyDev主要包括如下几个模块:
 
 * MonkeyPod
 
-将自动开发的非越狱插件制造成Pod以供其它人通过pod的方法来使用。
+将开发的非越狱插件制造成Pod以供其它人通过`pod install`的方法来使用。
 
 * MonkeyAppMac
 
